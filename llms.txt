@@ -1,0 +1,30 @@
+# Outflows — Bills Tracker
+
+> Track bills, subscriptions, and recurring payments in one place. Never miss a due date or pay a late fee again.
+
+Outflows is a simple, calm mobile app for tracking monthly bills, recurring charges, and upcoming due dates. It gives users a clean monthly overview so fixed expenses are always visible before they become surprises.
+
+## Key Pages
+
+- [Home](https://pcristo.dev/outflows_website/): Overview and download
+- [Privacy Policy](https://pcristo.dev/outflows_website/privacy.html)
+- [Terms of Service](https://pcristo.dev/outflows_website/terms.html)
+
+## Features
+
+- **Monthly Outlook** — See your total planned spend and track what's on-track vs. overdue
+- **Due Date Tracking** — View upcoming bills at a glance, week by week
+- **Recurring & One-Off Bills** — Track rent, utilities, subscriptions, and any irregular payment in one flow
+- **Late Fee Prevention** — Stay ahead of every payment before it becomes a problem
+
+## Design Philosophy
+
+Built for real life: fast to update, easy to scan, and clear enough to trust every day.
+
+## Availability
+
+- iOS (App Store)
+- Android (Google Play)
+- Free to download
+
+Made by Paulo Cristo © 2026

@@ -1,0 +1,69 @@
+# Outflows — Bills Tracker: Full Reference
+
+> Track bills, subscriptions, and recurring payments in one place. Never miss a due date or pay a late fee again.
+
+Outflows is a mobile app for iOS and Android that gives users a calm, clean overview of all their monthly obligations — bills, subscriptions, recurring charges, and one-off payments. The design philosophy is simplicity: fast to update, easy to scan, and clear enough to trust every day.
+
+**Website:** https://pcristo.dev/outflows_website/  
+**Made by:** Paulo Cristo
+
+---
+
+## Core Concept
+
+Most people lose money not because they can't afford their bills, but because they forget them. Outflows solves this by making every upcoming payment visible before it becomes a problem.
+
+- Monthly outlook shows total planned spend at a glance
+- Due dates are surfaced week by week so nothing sneaks up
+- One unified view for all recurring and one-off payments
+
+---
+
+## Features
+
+### Monthly Outlook
+A top-level dashboard showing:
+- Total planned spend for the month (e.g., "$1,284 planned")
+- On-track / at-risk status
+- Number of bills due this week
+- Potential late fees avoided
+
+### Due Date Tracking
+See every upcoming bill at a glance. The app surfaces what's due this week, what's coming up soon, and what's overdue — so you can act before it costs you.
+
+### Unified Bill Tracking
+Track in one place:
+- Rent and mortgage
+- Utilities (electricity, water, internet, phone)
+- Subscriptions (streaming, SaaS, gym)
+- One-off and irregular payments
+
+### Recurring & One-Off Support
+Mark any bill as recurring (monthly, weekly, annual) or as a one-time payment. Outflows handles both without clutter.
+
+---
+
+## Design Philosophy
+
+Built for real life. The app is:
+- **Fast to update** — Add or check off a bill in seconds
+- **Easy to scan** — Clean layout with no unnecessary information density
+- **Trustworthy** — Consistent, predictable UI so you can rely on it daily
+
+---
+
+## Availability
+
+- iOS (App Store) — Free
+- Android (Google Play) — Free
+
+---
+
+## Links
+
+- Home: https://pcristo.dev/outflows_website/
+- Privacy Policy: https://pcristo.dev/outflows_website/privacy.html
+- Terms of Service: https://pcristo.dev/outflows_website/terms.html
+- Contact: paulocristo@me.com
+
+© 2026 Paulo Cristo. All rights reserved.
